@@ -1,0 +1,57 @@
+{
+  "title": "The Master's Palette (Reimagined)",
+  "composer": "Michael Bryant",
+  "year": 2025,
+  "copyright": "\u00a9 2025 Michael Bryant. All Rights Reserved.",
+  "catalog_number": "MB-2025-001",
+  "duration": "ca. 8 minutes",
+  "movements": [
+    {
+      "number": 1,
+      "title": "Mingus Blues Cathedral",
+      "tempo": "q=92",
+      "meter": "7/4",
+      "key": "C minor"
+    },
+    {
+      "number": 2,
+      "title": "Gil's Orchestral Canvas",
+      "tempo": "q=66",
+      "meter": "9/8",
+      "key": "D major"
+    },
+    {
+      "number": 3,
+      "title": "Bartok Night Music",
+      "tempo": "q=84",
+      "meter": "5/8, 7/8",
+      "key": "A minor/modal"
+    },
+    {
+      "number": 4,
+      "title": "Klangfarbenmelodie II",
+      "tempo": "q=72-92",
+      "meter": "11/8, 4/4",
+      "key": "C major"
+    }
+  ],
+  "instrumentation": [
+    "Flute",
+    "Clarinet in Bb",
+    "Flugelhorn in Bb",
+    "Violin",
+    "Viola",
+    "Violoncello",
+    "Double Bass",
+    "Classical Guitar"
+  ],
+  "ensemble_type": "hybrid guitar-chamber ensemble",
+  "version": "FINAL",
+  "encoding_date": "2025-12-11",
+  "files": {
+    "score": "masters-palette-FINAL-Score.musicxml",
+    "parts_folder": "masters-palette-FINAL-Parts/",
+    "archive_folder": "masters-palette-Archive/",
+    "performer_pack": "masters-palette-PerformerPack/"
+  }
+}

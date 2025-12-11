@@ -1,0 +1,3336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <work><work-title>The Master's Palette - III. Bartok Night</work-title></work>
+  <identification>
+    <creator type="composer">Michael Bryant</creator>
+    <rights>(C) 2025 Michael Bryant. All Rights Reserved.</rights>
+    <encoding><software>Final Orchestration Refinement</software><encoding-date>2025-12-11</encoding-date></encoding>
+  </identification>
+  <part-list>
+    <score-part id="P1"><part-name>Flute</part-name><part-abbreviation>Fl.</part-abbreviation></score-part>
+    <score-part id="P2"><part-name>Clarinet in Bb</part-name><part-abbreviation>Cl.</part-abbreviation></score-part>
+    <score-part id="P3"><part-name>Flugelhorn</part-name><part-abbreviation>Flgh.</part-abbreviation></score-part>
+    <score-part id="P4"><part-name>Violin I</part-name><part-abbreviation>Vln.I</part-abbreviation></score-part>
+    <score-part id="P5"><part-name>Violin II</part-name><part-abbreviation>Vln.II</part-abbreviation></score-part>
+    <score-part id="P6"><part-name>Viola</part-name><part-abbreviation>Vla.</part-abbreviation></score-part>
+    <score-part id="P7"><part-name>Cello</part-name><part-abbreviation>Vc.</part-abbreviation></score-part>
+    <score-part id="P8"><part-name>Double Bass</part-name><part-abbreviation>Cb.</part-abbreviation></score-part>
+    <score-part id="P9"><part-name>Classical Guitar</part-name><part-abbreviation>Gtr.</part-abbreviation></score-part>
+    <score-part id="P10"><part-name>Glockenspiel</part-name><part-abbreviation>Glock.</part-abbreviation></score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <words font-style="italic">Molto misterioso, nocturnal - insect-like</words>
+            <metronome><beat-unit>quarter</beat-unit><per-minute>40</per-minute></metronome>
+          </direction-type>
+        </direction>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="4">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <words font-style="italic">expanding, restless</words>
+          </direction-type>
+        </direction>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="8">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <words font-style="italic">dissolving into silence</words>
+          </direction-type>
+        </direction>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>7</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="11">
+        <direction placement="above">
+          <direction-type>
+            <words font-style="italic">rit., morendo</words>
+          </direction-type>
+        </direction>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="12">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P2">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P3">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="2">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="4">
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="8">
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="10">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="11">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="12">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P4">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note>
+          <pitch><step>E</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note>
+          <pitch><step>E</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>E</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note>
+          <pitch><step>E</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>E</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>128</duration>
+          <voice>1</voice>
+          <type>eighth</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P5">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>F</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>5</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><staccato/></articulations></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P6">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>C</sign><line>3</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>D</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>G</step><alter>1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>D</step><octave>5</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>3</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P7">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>F</sign><line>4</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations></notations>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>E</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <chord/>
+          <pitch><step>F</step><octave>3</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>2</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+        </note>
+        <note>
+          <pitch><step>A</step><octave>2</octave></pitch>
+          <duration>512</duration>
+          <voice>1</voice>
+          <type>half</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/></notations>
+        </note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P8">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>F</sign><line>4</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+    </measure>
+    <measure number="2">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="4">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+    </measure>
+    <measure number="6">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="8">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+    </measure>
+    <measure number="11">
+        <note><rest/><duration>512</duration><voice>1</voice><type>half</type><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><alter>-1</alter><octave>1</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><pizzicato/></technical></notations>
+        </note>
+        <note><rest/><duration>256</duration><voice>1</voice><type>quarter</type><staff>1</staff></note>
+    </measure>
+    <measure number="12">
+        <note>
+          <pitch><step>A</step><octave>1</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+        </note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P9">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="2">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="4">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="6">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="8">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="10">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="11">
+        <note>
+          <pitch><step>A</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="start" number="1"/><articulations><accent/></articulations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>B</step><alter>-1</alter><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>E</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><technical><harmonic/></technical></notations>
+        </note>
+        <note>
+          <pitch><step>F</step><octave>4</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><slur type="stop" number="1"/><technical><harmonic/></technical></notations>
+        </note>
+    </measure>
+    <measure number="12">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+  <part id="P10">
+    <measure number="1">
+        <attributes>
+          <divisions>256</divisions>
+          <key><fifths>0</fifths></key>
+          <time><beats>4</beats><beat-type>4</beat-type></time>
+          <clef><sign>G</sign><line>2</line></clef>
+        </attributes>
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>13</degree-value><degree-alter>-1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="2">
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+    </measure>
+    <measure number="3">
+        <harmony print-frame="no">
+          <root><root-step>E</root-step><root-alter>-1</root-alter></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="4">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="5">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><pp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>G</root-step><root-alter>-1</root-alter></root>
+          <kind>major-seventh</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>1</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="6">
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+        <note>
+          <pitch><step>E</step><octave>7</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+    </measure>
+    <measure number="7">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><p/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>C</root-step></root>
+          <kind>augmented</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="8">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="9">
+        <direction placement="above">
+          <direction-type>
+            <dynamics><ppp/></dynamics>
+          </direction-type>
+        </direction>
+        <harmony print-frame="no">
+          <root><root-step>A</root-step></root>
+          <kind>minor</kind>
+          <degree><degree-value>9</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+          <degree><degree-value>11</degree-value><degree-alter>0</degree-alter><degree-type>add</degree-type></degree>
+        </harmony>
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="10">
+        <note>
+          <pitch><step>A</step><octave>7</octave></pitch>
+          <duration>256</duration>
+          <voice>1</voice>
+          <type>quarter</type>
+          <staff>1</staff>
+          <notations><articulations><accent/></articulations><articulations><staccato/></articulations></notations>
+        </note>
+        <note><rest/><duration>768</duration><voice>1</voice><type>half</type><dot/><staff>1</staff></note>
+    </measure>
+    <measure number="11">
+        <note><rest/><duration>1024</duration><voice>1</voice><type>whole</type><staff>1</staff></note>
+    </measure>
+    <measure number="12">
+        <note>
+          <pitch><step>A</step><octave>6</octave></pitch>
+          <duration>1024</duration>
+          <voice>1</voice>
+          <type>whole</type>
+          <staff>1</staff>
+          <notations><fermata type="upright"/></notations>
+        </note>
+        <barline location="right"><bar-style>light-heavy</bar-style></barline>
+    </measure>
+  </part>
+</score-partwise>
